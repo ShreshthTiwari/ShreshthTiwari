@@ -1,2 +1,1 @@
-[![My Discord Bot :)](./assets/header.png)
-]
+[![My Discord Bot :)](./assets/header.png)]
