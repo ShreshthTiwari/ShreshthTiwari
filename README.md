@@ -1,1 +1,1 @@
-[![My Discord Bot :)](./assets/header.png)]
+[![My Discord Bot :)](./assets/header.png)](htps://discord.com/5zRubw5XDx)
