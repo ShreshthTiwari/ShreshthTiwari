@@ -1,1 +1,2 @@
-[My Discord Bot :)](./assets/bimlu.png)
+[![My Discord Bot :)](./assets/bimlu.png)
+]
