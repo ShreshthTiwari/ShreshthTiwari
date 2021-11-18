@@ -45,6 +45,6 @@ Hey there 👋,
 
 ## 💼 Skills
 
-[![JavaScript Badge](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)](https://github.com/ShreshthTiwari)
-[![JavaScript Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)](https://github.com/ShreshthTiwari)
-[![JavaScript Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)](https://github.com/ShreshthTiwari)
+[![JavaScript Badge](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)](https://github.com/ShreshthTiwari)
+[![JavaScript Badge](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=4AB197)](https://github.com/ShreshthTiwari)
+[![JavaScript Badge](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)](https://github.com/ShreshthTiwari)
