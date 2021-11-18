@@ -1,7 +1,5 @@
 [![header](./assets/header.png)](https://github.com/ShreshthTiwari)
 <br>
-## ABOUT ME
-<br>
 Hey there 👋,
 I'm ShreshthTiwari
 <br>
