@@ -1,6 +1,6 @@
 [![header](./assets/header.png)](https://github.com/ShreshthTiwari)
 <br>
-## 🐱 GIT HUB
+## GIT HUB
 <br>
 [![Visits Badge](https://badges.pufler.dev/visits/ShreshthTiwari/ShreshthTiwari)](https://github.com/ShreshthTiwari)
 [![Years Badge](https://badges.pufler.dev/years/ShreshthTiwari)](https://github.com/ShreshthTiwari)
