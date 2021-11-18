@@ -4,3 +4,5 @@
 GIT HUB-
 
 [![Visits Badge](https://badges.pufler.dev/visits/ShreshthTiwari/ShreshthTiwari)](https://github.com/ShreshthTiwari)
+[![Years Badge](https://badges.pufler.dev/ShreshthTiwari/ShreshthTiwari)](https://github.com/ShreshthTiwari)
+[![Repos Badge](https://badges.pufler.dev/ShreshthTiwari/ShreshthTiwari)](https://github.com/ShreshthTiwari?tab=repositories)
