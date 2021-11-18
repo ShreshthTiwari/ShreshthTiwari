@@ -7,11 +7,9 @@ I'm ShreshthTiwari
 [![Years Badge](https://badges.pufler.dev/years/ShreshthTiwari)](https://github.com/ShreshthTiwari)
 [![Repos Badge](https://badges.pufler.dev/repos/ShreshthTiwari)](https://github.com/ShreshthTiwari?tab=repositories)
 <br>
-## 🎮 Discord
-<br>
-ID - ShreshthTiwari#6014
-<br>
 [![Discord Server](https://img.shields.io/discord/821078039576051753?label=Discord&style=plastic)](https://discord.com/invite/Z2t6Ury5P9)
+<br>
+-ShreshthTiwari#6014
 <br>
 ## 📌 Pinned Repositories
 <br>
