@@ -1,5 +1,9 @@
 [![header](./assets/header.png)](https://github.com/ShreshthTiwari)
-[![Discord Server](https://img.shields.io/discord/821078039576051753?label=Discord&style=plastic)](https://discord.com/invite/Z2t6Ury5P9)
+
+DISCORD-
+
+  Server - [![Discord Server](https://img.shields.io/discord/821078039576051753?label=Discord&style=plastic)](https://discord.com/invite/Z2t6Ury5P9)
+  ID - ShreshthTiwari#6014
 
 GIT HUB-
 
