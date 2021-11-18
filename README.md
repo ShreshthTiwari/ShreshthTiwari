@@ -2,12 +2,12 @@
 <br>
 <br>
 Hey there 👋,
-<br>
+
 [![Visits Badge](https://badges.pufler.dev/visits/ShreshthTiwari/ShreshthTiwari)](https://github.com/ShreshthTiwari)
 [![Years Badge](https://badges.pufler.dev/years/ShreshthTiwari)](https://github.com/ShreshthTiwari)
 [![Repos Badge](https://badges.pufler.dev/repos/ShreshthTiwari)](https://github.com/ShreshthTiwari?tab=repositories)
 <br>
-<br>
+
 [![Discord Server](https://img.shields.io/discord/821078039576051753?label=Discord&style=plastic)](https://discord.com/invite/Z2t6Ury5P9)
 <br>
 -ShreshthTiwari#6014
@@ -37,5 +37,5 @@ Hey there 👋,
 <br>
 
 ## 💼 Skills
-<br>
+
 [![JavaScript Badge](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)](https://github.com/ShreshthTiwari)
