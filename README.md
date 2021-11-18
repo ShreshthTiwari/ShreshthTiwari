@@ -1,9 +1,11 @@
 [![header](./assets/header.png)](https://github.com/ShreshthTiwari)
 <br>
+## ABOUT ME
+<br>
 Hey there 👋,
 I'm ShreshthTiwari
 <br>
-## Git Hub
+## GIT HUB
 <br>
 [![Visits Badge](https://badges.pufler.dev/visits/ShreshthTiwari/ShreshthTiwari)](https://github.com/ShreshthTiwari)
 [![Years Badge](https://badges.pufler.dev/years/ShreshthTiwari)](https://github.com/ShreshthTiwari)
