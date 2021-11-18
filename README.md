@@ -9,7 +9,7 @@ Hey there 👋,
 [![Visits Badge](https://badges.pufler.dev/visits/ShreshthTiwari/ShreshthTiwari)](https://github.com/ShreshthTiwari)
 [![Years Badge](https://badges.pufler.dev/years/ShreshthTiwari)](https://github.com/ShreshthTiwari)
 [![Repos Badge](https://badges.pufler.dev/repos/ShreshthTiwari)](https://github.com/ShreshthTiwari?tab=repositories)
-<p align="center"><img src="https://profile-counter.glitch.me/{ShreshthTiwari}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ShreshthTiwari}/count.svg" alt="Shreshth Tiwari" /></p>
 <br>
 
 ## 🎮 DISCORD
