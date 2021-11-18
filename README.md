@@ -1,1 +1,2 @@
-![My Discord Bot :)](./assets/header.png)
+![header](./assets/header.png)
+![Discord Server](https://img.shields.io/discord/821078039576051753?label=Discord) 
