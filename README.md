@@ -1,12 +1,12 @@
 [![header](./assets/header.png)](https://github.com/ShreshthTiwari)
 <br>
-GIT HUB-
+## 🐱 GITHUB
 <br>
 [![Visits Badge](https://badges.pufler.dev/visits/ShreshthTiwari/ShreshthTiwari)](https://github.com/ShreshthTiwari)
 [![Years Badge](https://badges.pufler.dev/years/ShreshthTiwari)](https://github.com/ShreshthTiwari)
 [![Repos Badge](https://badges.pufler.dev/repos/ShreshthTiwari)](https://github.com/ShreshthTiwari?tab=repositories)
 <br>
-DISCORD-
+## 🎮 DISCORD
 <br>
 ID - ShreshthTiwari#6014
 <br>
