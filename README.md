@@ -51,3 +51,5 @@ Hey there 👋,
 [![JavaScript Badge](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=000000)](https://github.com/ShreshthTiwari)
 [![JavaScript Badge](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=000000)](https://github.com/ShreshthTiwari)
 [![JavaScript Badge](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=000000)](https://github.com/ShreshthTiwari)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
