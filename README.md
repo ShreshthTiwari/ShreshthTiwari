@@ -38,4 +38,4 @@ Hey there 👋,
 
 ## 💼 Skills
 <br>
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+[![JavaScript Badge](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)]
