@@ -28,6 +28,9 @@ Hey there 👋,
 <a href="https://github.com/ShreshthTiwari/B0T">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=B0T&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
 </a>
+
+[![B0T](https://img.shields.io/github/forks/ShreshthTiwari/B0T?style=plastic)](https://github.com/ShreshthTiwari/B0T)
+
 <a href="https://github.com/ShreshthTiwari/PteroStats-Fork">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=PteroStats-Fork&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
 </a>
