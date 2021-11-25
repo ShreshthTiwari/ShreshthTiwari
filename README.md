@@ -36,7 +36,7 @@ Hey there 👋,
 <br>
 
 [![ThingyTV](https://img.shields.io/badge/ThingyTV-ThingyTV-blue?style=plastic)](https://github.com/TheTHINGYEEE)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://avatars.githubusercontent.com/u/68848247" width="215" height="215" />
+![Thingy Image](https://avatars.githubusercontent.com/u/68848247 =250x250)
 <br>
 
 ## 📌 Pinned Repositories
