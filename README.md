@@ -35,6 +35,9 @@ Hey there 👋,
 [![Rishav](https://img.shields.io/badge/Rishav-ItsFakeRishav-blue?style=plastic)](https://github.com/ItsFakeRishav)
 <br>
 
+[![ThingyTV](https://img.shields.io/badge/ThingyTV-ThingyTV-blue?style=plastic)](https://github.com/ThingyTV)
+<br>
+
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/ShreshthTiwari/B0T">
