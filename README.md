@@ -30,18 +30,24 @@ Hey there 👋,
 </a>
 
 [![B0T](https://img.shields.io/github/forks/ShreshthTiwari/B0T?style=plastic)](https://github.com/ShreshthTiwari/B0T)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/B0T?style=plastic)](https://github.com/ShreshthTiwari/B0T)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/B0T?style=plastic)](https://github.com/ShreshthTiwari/B0T)
 
 <a href="https://github.com/ShreshthTiwari/PteroStats-Fork">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=PteroStats-Fork&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
 </a>
 
 [![PteroStats-Fork](https://img.shields.io/github/forks/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork)
 
 <a href="https://github.com/ShreshthTiwari/ShreshthTiwari">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=ShreshthTiwari&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
 </a>
 
 [![ShreshthTiwari](https://img.shields.io/github/forks/ShreshthTiwari/ShreshthTiwari?style=plastic)](https://github.com/ShreshthTiwari/ShreshthTiwari)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork)
 
 <br>
 <br>
