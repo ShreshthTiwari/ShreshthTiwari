@@ -35,9 +35,6 @@ Hey there 👋,
 [![Rishav](https://img.shields.io/badge/Rishav-ItsFakeRishav-blue?style=plastic)](https://github.com/ItsFakeRishav)
 <br>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<br>
-
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/ShreshthTiwari/B0T">
@@ -93,4 +90,5 @@ Hey there 👋,
 [![JavaScript Badge](https://img.shields.io/badge/C-informational?style=plastic&logo=c&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 [![JavaScript Badge](https://img.shields.io/badge/C++-informational?style=plastic&logo=cplusplus&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <br>
