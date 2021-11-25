@@ -35,7 +35,7 @@ Hey there 👋,
 [![Rishav](https://img.shields.io/badge/Rishav-ItsFakeRishav-blue?style=plastic)](https://github.com/ItsFakeRishav)
 <br>
 
-![Thingy Image](https://avatars.githubusercontent.com/u/68848247?v=4&s=50)
+![Thingy Image](https://avatars.githubusercontent.com/u/68848247?v=4&s=25)
 [![ThingyTV](https://img.shields.io/badge/ThingyTV-ThingyTV-blue?style=plastic)](https://github.com/TheTHINGYEEE)
 <br>
 
