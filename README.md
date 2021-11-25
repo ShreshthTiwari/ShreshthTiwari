@@ -9,12 +9,12 @@ Hey there 👋,
 
 ## 🐱 GITHUB
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{ShreshthTiwari}/count.svg" alt="ShreshthTiwari" /></p>
-<br>
-
 [![Github Stars](https://img.shields.io/github/stars/ShreshthTiwari?affiliations=OWNER&style=plastic)](https://github.com/ShreshthTiwari)
 
+<br>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ShreshthTiwari}/count.svg" alt="ShreshthTiwari" /></p>
 <br>
 
 ## 🎮 DISCORD
