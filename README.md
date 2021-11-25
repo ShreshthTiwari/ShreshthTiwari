@@ -49,6 +49,14 @@ Hey there 👋,
 [![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/ShreshthTiwari?style=plastic)](https://github.com/ShreshthTiwari/ShreshthTiwari/issues)
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/ShreshthTiwari?style=plastic)](https://github.com/ShreshthTiwari/ShreshthTiwari/issues)
 
+<a href="https://github.com/ShreshthTiwari/mc-java-optimized-files">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=mc-java-optimized-files&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
+</a>
+
+[![ShreshthTiwari](https://img.shields.io/github/forks/ShreshthTiwari/mc-java-optimized-files?style=plastic)](https://github.com/ShreshthTiwari/mc-java-optimized-files/network/members)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/mc-java-optimized-files?style=plastic)](https://github.com/ShreshthTiwari/mc-java-optimized-files/issues)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/mc-java-optimized-files?style=plastic)](https://github.com/ShreshthTiwari/mc-java-optimized-files/issues)
+
 <br>
 <br>
 
