@@ -46,8 +46,8 @@ Hey there 👋,
 </a>
 
 [![ShreshthTiwari](https://img.shields.io/github/forks/ShreshthTiwari/ShreshthTiwari?style=plastic)](https://github.com/ShreshthTiwari/ShreshthTiwari/network/members)
-[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork/issues)
-[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork/issues)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/ShreshthTiwari?style=plastic)](https://github.com/ShreshthTiwari/ShreshthTiwari/issues)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/ShreshthTiwari?style=plastic)](https://github.com/ShreshthTiwari/ShreshthTiwari/issues)
 
 <br>
 <br>
