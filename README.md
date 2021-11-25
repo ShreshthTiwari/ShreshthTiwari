@@ -29,9 +29,11 @@ Hey there 👋,
 
 ## 😎 Collaborators
 
+![Minhaz Image](https://avatars.githubusercontent.com/u/89151982?v=4&s=25)
 [![Minhaz](https://img.shields.io/badge/Minhaz-Minhaz69420-blue?style=plastic)](https://github.com/Minhaz69420)
 <br>
 
+![Rishav Image](https://avatars.githubusercontent.com/u/95017178?v=4&s=25)
 [![Rishav](https://img.shields.io/badge/Rishav-ItsFakeRishav-blue?style=plastic)](https://github.com/ItsFakeRishav)
 <br>
 
