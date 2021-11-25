@@ -29,15 +29,15 @@ Hey there 👋,
 
 ## 😎 Collaborators
 
-![Minhaz Image](https://avatars.githubusercontent.com/u/89151982?v=4&s=25)
+![Minhaz Image](https://avatars.githubusercontent.com/u/89151982?v=4&s=40)
 [![Minhaz](https://img.shields.io/badge/Minhaz-Minhaz69420-blue?style=plastic)](https://github.com/Minhaz69420)
 <br>
 
-![Rishav Image](https://avatars.githubusercontent.com/u/95017178?v=4&s=25)
+![Rishav Image](https://avatars.githubusercontent.com/u/95017178?v=4&s=40)
 [![Rishav](https://img.shields.io/badge/Rishav-ItsFakeRishav-blue?style=plastic)](https://github.com/ItsFakeRishav)
 <br>
 
-![Thingy Image](https://avatars.githubusercontent.com/u/68848247?v=4&s=25)
+![Thingy Image](https://avatars.githubusercontent.com/u/68848247?v=4&s=40)
 [![ThingyTV](https://img.shields.io/badge/ThingyTV-ThingyTV-blue?style=plastic)](https://github.com/TheTHINGYEEE)
 <br>
 
