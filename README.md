@@ -29,6 +29,14 @@ Hey there 👋,
 
 ## 😎 Collaborators
 
+![Aayush Image](https://avatars.githubusercontent.com/u/95373757?v=4&s=40)
+[![Ayush](https://img.shields.io/badge/AayushShankar-AayushShankar-blue?style=plastic)](https://github.com/AayushShankar)
+<br>
+
+![Gamemaster Image](https://avatars.githubusercontent.com/u/75156201?v=4&s=40)
+[![Gamemaster](https://img.shields.io/badge/Gamemaster-Gamemaster9-blue?style=plastic)](https://github.com/Gamemaster9)
+<br>
+
 ![Minhaz Image](https://avatars.githubusercontent.com/u/89151982?v=4&s=40)
 [![Minhaz](https://img.shields.io/badge/Minhaz-Minhaz69420-blue?style=plastic)](https://github.com/Minhaz69420)
 <br>
@@ -38,7 +46,7 @@ Hey there 👋,
 <br>
 
 ![Thingy Image](https://avatars.githubusercontent.com/u/68848247?v=4&s=40)
-[![ThingyTV](https://img.shields.io/badge/ThingyTV-ThingyTV-blue?style=plastic)](https://github.com/TheTHINGYEEE)
+[![ThingyTV](https://img.shields.io/badge/ThingyTV-TheTHINGYEEE-blue?style=plastic)](https://github.com/TheTHINGYEEE)
 <br>
 
 ## 📌 Pinned Repositories
