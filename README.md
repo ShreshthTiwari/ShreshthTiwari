@@ -34,14 +34,14 @@ Hey there 👋,
 [![Github Stars](https://img.shields.io/github/stars/AayushShankar?affiliations=OWNER&style=plastic)](https://github.com/AayushShankar)
 <br>
 
+![Thingy Image](https://avatars.githubusercontent.com/u/68848247?v=4&s=40)
+[![ThingyTV](https://img.shields.io/badge/ThingyTV-TheTHINGYEEE-blue?style=plastic)](https://github.com/TheTHINGYEEE)
+[![Github Stars](https://img.shields.io/github/stars/TheTHINGYEEE?affiliations=OWNER&style=plastic)](https://github.com/TheTHINGYEEE)
+<br>
+
 ![Gamemaster Image](https://avatars.githubusercontent.com/u/75156201?v=4&s=40)
 [![Gamemaster](https://img.shields.io/badge/Gamemaster-Gamemaster9-blue?style=plastic)](https://github.com/Gamemaster9)
 [![Github Stars](https://img.shields.io/github/stars/Gamemaster9?affiliations=OWNER&style=plastic)](https://github.com/Gamemaster9)
-<br>
-
-![Minhaz Image](https://avatars.githubusercontent.com/u/89151982?v=4&s=40)
-[![Minhaz](https://img.shields.io/badge/Minhaz-Minhaz69420-blue?style=plastic)](https://github.com/Minhaz69420)
-[![Github Stars](https://img.shields.io/github/stars/Minhaz69420?affiliations=OWNER&style=plastic)](https://github.com/Minhaz69420)
 <br>
 
 ![Rishav Image](https://avatars.githubusercontent.com/u/95017178?v=4&s=40)
@@ -49,9 +49,9 @@ Hey there 👋,
 [![Github Stars](https://img.shields.io/github/stars/ItsFakeRishav?affiliations=OWNER&style=plastic)](https://github.com/ItsFakeRishav)
 <br>
 
-![Thingy Image](https://avatars.githubusercontent.com/u/68848247?v=4&s=40)
-[![ThingyTV](https://img.shields.io/badge/ThingyTV-TheTHINGYEEE-blue?style=plastic)](https://github.com/TheTHINGYEEE)
-[![Github Stars](https://img.shields.io/github/stars/TheTHINGYEEE?affiliations=OWNER&style=plastic)](https://github.com/TheTHINGYEEE)
+![Minhaz Image](https://avatars.githubusercontent.com/u/89151982?v=4&s=40)
+[![Minhaz](https://img.shields.io/badge/Minhaz-Minhaz69420-blue?style=plastic)](https://github.com/Minhaz69420)
+[![Github Stars](https://img.shields.io/github/stars/Minhaz69420?affiliations=OWNER&style=plastic)](https://github.com/Minhaz69420)
 <br>
 
 ## 📌 Pinned Repositories
