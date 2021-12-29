@@ -88,6 +88,14 @@ Hey there 👋,
 [![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/MCJOF?style=plastic)](https://github.com/ShreshthTiwari/MCJOF/issues)
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/MCJOF?style=plastic)](https://github.com/ShreshthTiwari/MCJOF/issues)
 
+<a href="https://github.com/ShreshthTiwari/discord-rich-presence-bot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=discord-rich-presence-bot&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
+</a>
+
+[![ShreshthTiwari](https://img.shields.io/github/forks/ShreshthTiwari/discord-rich-presence-bot?style=plastic)](https://github.com/ShreshthTiwari/discord-rich-presence-bot/network/members)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/discord-rich-presence-bot?style=plastic)](https://github.com/ShreshthTiwari/discord-rich-presence-bot/issues)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/discord-rich-presence-bot?style=plastic)](https://github.com/ShreshthTiwari/discord-rich-presence-bot/issues)
+
 <br>
 <br>
 
