@@ -27,7 +27,7 @@ Hey there 👋,
 -ShreshthTiwari#6014
 <br>
 
-## 😎 Collaborators
+## 😎 FRIENDS
 
 ![Aayush Image](https://avatars.githubusercontent.com/u/95373757?v=4&s=40)
 [![Ayush](https://img.shields.io/badge/AayushShankar-AayushShankar-blue?style=plastic)](https://github.com/AayushShankar)
