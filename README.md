@@ -72,6 +72,14 @@ Hey there 👋,
 [![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/PteroStats?style=plastic)](https://github.com/ShreshthTiwari/PteroStats/issues)
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/PteroStats?style=plastic)](https://github.com/ShreshthTiwari/PteroStats/issues)
 
+<a href="https://github.com/ShreshthTiwari/Website-Hosting-With-DiscordJS">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=ShreshthTiwari&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
+</a>
+
+[![ShreshthTiwari](https://img.shields.io/github/forks/ShreshthTiwari/Website-Hosting-With-DiscordJS?style=plastic)](https://github.com/ShreshthTiwari/Website-Hosting-With-DiscordJS/network/members)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/Website-Hosting-With-DiscordJS?style=plastic)](https://github.com/ShreshthTiwari/Website-Hosting-With-DiscordJS/issues)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/Website-Hosting-With-DiscordJS?style=plastic)](https://github.com/ShreshthTiwari/Website-Hosting-With-DiscordJS/issues)
+
 <a href="https://github.com/ShreshthTiwari/ShreshthTiwari">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=ShreshthTiwari&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
 </a>
