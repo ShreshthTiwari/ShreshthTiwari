@@ -64,13 +64,13 @@ Hey there 👋,
 [![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/B0T?style=plastic)](https://github.com/ShreshthTiwari/B0T/issues)
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/B0T?style=plastic)](https://github.com/ShreshthTiwari/B0T/issues)
 
-<a href="https://github.com/ShreshthTiwari/PteroStats-Fork">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=PteroStats-Fork&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
+<a href="https://github.com/ShreshthTiwari/PteroStats/tree/PteroStats-Fork">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=PteroStats/tree/PteroStats-Fork&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
 </a>
 
-[![PteroStats-Fork](https://img.shields.io/github/forks/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork/network/members)
-[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork/issues)
-[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats-Fork/issues)
+[![PteroStats/tree/PteroStats-Fork](https://img.shields.io/github/forks/ShreshthTiwari/PteroStats/tree/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats/tree/PteroStats-Fork/network/members)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/PteroStats/tree/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats/tree/PteroStats-Fork/issues)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/PteroStats/tree/PteroStats-Fork?style=plastic)](https://github.com/ShreshthTiwari/PteroStats/tree/PteroStats-Fork/issues)
 
 <a href="https://github.com/ShreshthTiwari/ShreshthTiwari">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=ShreshthTiwari&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
