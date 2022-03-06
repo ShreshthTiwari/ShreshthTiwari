@@ -34,9 +34,9 @@ Hey there 👋,
 [![Github Stars](https://img.shields.io/github/stars/AayushShankar?affiliations=OWNER&style=plastic)](https://github.com/AayushShankar)
 <br>
 
-![Gamemaster Image](https://avatars.githubusercontent.com/u/75156201?v=4&s=40)
-[![Gamemaster](https://img.shields.io/badge/Gamemaster-Gamemaster9-blue?style=plastic)](https://github.com/Gamemaster9)
-[![Github Stars](https://img.shields.io/github/stars/Gamemaster9?affiliations=OWNER&style=plastic)](https://github.com/Gamemaster9)
+![Gamemaster Image](https://avatars.githubusercontent.com/u/99412520?v=4&s=40)
+[![Gamemaster](https://img.shields.io/badge/Gamemaster-GujuG9-blue?style=plastic)](https://github.com/GujuG9)
+[![Github Stars](https://img.shields.io/github/stars/GujuG9?affiliations=OWNER&style=plastic)](https://github.com/GujuG9)
 <br>
 
 ![Thingy Image](https://avatars.githubusercontent.com/u/68848247?v=4&s=40)
