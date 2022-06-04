@@ -64,7 +64,15 @@ Hey there 👋,
 [![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/B0T?style=plastic)](https://github.com/ShreshthTiwari/B0T/issues)
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/B0T?style=plastic)](https://github.com/ShreshthTiwari/B0T/issues)
 
-<a href="https://github.com/ShreshthTiwari/PteroStats/tree/PteroStats-Fork">
+<a href="https://github.com/ShreshthTiwari/MCStats">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=MCStats&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
+</a>
+
+[![MCStats](https://img.shields.io/github/forks/ShreshthTiwari/MCStats?style=plastic)](https://github.com/ShreshthTiwari/MCStats/network/members)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/MCStats?style=plastic)](https://github.com/ShreshthTiwari/MCStats/issues)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/MCStats?style=plastic)](https://github.com/ShreshthTiwari/MCStats/issues)
+
+<a href="https://github.com/ShreshthTiwari/PteroStats/tree/v-13">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=PteroStats&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
 </a>
 
