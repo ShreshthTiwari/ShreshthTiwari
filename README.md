@@ -19,10 +19,10 @@ Hey there 👋,
 
 ## 🎮 DISCORD
 
-[![Discord Server](https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.com/invite/Z2t6Ury5P9)
+[![Discord Server](https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.com/invite/DmzJ6a8Cq5)
 <br>
 
-[![Discord Server](https://img.shields.io/discord/821078039576051753?label=Discord&style=plastic)](https://discord.com/invite/Z2t6Ury5P9)
+[![Discord Server](https://img.shields.io/discord/821078039576051753?label=Discord&style=plastic)](https://discord.com/invite/DmzJ6a8Cq5)
 <br>
 -ShreshthTiwari#6014
 <br>
@@ -90,14 +90,6 @@ Hey there 👋,
 
 <a href="https://github.com/ShreshthTiwari/mc-java-optimized-files">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=mc-java-optimized-files&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
-</a>
-
-[![ShreshthTiwari](https://img.shields.io/github/forks/ShreshthTiwari/MCJOF?style=plastic)](https://github.com/ShreshthTiwari/MCJOF/network/members)
-[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/MCJOF?style=plastic)](https://github.com/ShreshthTiwari/MCJOF/issues)
-[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/MCJOF?style=plastic)](https://github.com/ShreshthTiwari/MCJOF/issues)
-
-<a href="https://github.com/ShreshthTiwari/discord-rich-presence-bot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=discord-rich-presence-bot&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
 </a>
 
 [![ShreshthTiwari](https://img.shields.io/github/forks/ShreshthTiwari/discord-rich-presence-bot?style=plastic)](https://github.com/ShreshthTiwari/discord-rich-presence-bot/network/members)
