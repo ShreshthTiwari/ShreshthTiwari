@@ -104,13 +104,13 @@ Hey there 👋,
 [![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/discord-rich-presence-bot?style=plastic)](https://github.com/ShreshthTiwari/discord-rich-presence-bot/issues)
 [![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/discord-rich-presence-bot?style=plastic)](https://github.com/ShreshthTiwari/discord-rich-presence-bot/issues)
 
-<a href="https://github.com/ShreshthTiwari/UFW-disable-vpns-firewall-rules">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=UFW-disable-vpns-firewall-rules&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
+<a href="https://github.com/ShreshthTiwari/ufw-disable-vpns">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ShreshthTiwari&repo=ufw-disable-vpns&title_color=00FF00&text_color=FFFF00&icon_color=87ceeb&bg_color=000000" />
 </a>
 
-[![ShreshthTiwari](https://img.shields.io/github/forks/ShreshthTiwari/UFW-disable-vpns-firewall-rules?style=plastic)](https://github.com/ShreshthTiwari/UFW-disable-vpns-firewall-rules/network/members)
-[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/UFW-disable-vpns-firewall-rules?style=plastic)](https://github.com/ShreshthTiwari/UFW-disable-vpns-firewall-rules/issues)
-[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/UFW-disable-vpns-firewall-rules?style=plastic)](https://github.com/ShreshthTiwari/UFW-disable-vpns-firewall-rules/issues)
+[![ShreshthTiwari](https://img.shields.io/github/forks/ShreshthTiwari/ufw-disable-vpns?style=plastic)](https://github.com/ShreshthTiwari/ufw-disable-vpns/network/members)
+[![Open issues](https://img.shields.io/github/issues-raw/ShreshthTiwari/ufw-disable-vpns?style=plastic)](https://github.com/ShreshthTiwari/ufw-disable-vpns/issues)
+[![Closed issues](https://img.shields.io/github/issues-closed-raw/ShreshthTiwari/ufw-disable-vpns?style=plastic)](https://github.com/ShreshthTiwari/ufw-disable-vpns/issues)
 
 <br>
 <br>
