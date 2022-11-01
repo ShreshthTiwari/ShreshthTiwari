@@ -136,12 +136,12 @@ Hey there 👋,
 
 <br>
 
-## 💼 Projects
+## 👨‍💻 Projects
 
-https://workfromhimalayas.co.in/
-https://astroverse.in/
-https://astrostops.com/
-https://playbharat.fun/
+https://workfromhimalayas.co.in/<br>
+https://astroverse.in/<br>
+https://astrostops.com/<br>
+https://playbharat.fun/<br>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <br>
