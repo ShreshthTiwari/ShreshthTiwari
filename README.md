@@ -134,5 +134,14 @@ Hey there 👋,
 [![C++ Badge](https://img.shields.io/badge/C++-informational?style=plastic&logo=cplusplus&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 [![EJS Badge](https://img.shields.io/badge/EJS-informational?style=plastic&logo=javascript&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 
+<br>
+
+## 💼 Projects
+
+https://workfromhimalayas.co.in/
+https://astroverse.in/
+https://astrostops.com/
+https://playbharat.fun/
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <br>
