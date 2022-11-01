@@ -138,7 +138,7 @@ Hey there 👋,
 
 ## 👨‍💻 Projects
 
-https://workfromhimalayas.co.in/<br>
+<span style="font-weight: bold;">Work From Himalayas</span>- https://workfromhimalayas.co.in/<br>
 https://astroverse.in/<br>
 https://astrostops.com/<br>
 https://playbharat.fun/<br>
