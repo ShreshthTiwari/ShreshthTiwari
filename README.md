@@ -138,10 +138,10 @@ Hey there 👋,
 
 ## 👨‍💻 Projects
 
-<span style="font-weight: bold;">Work From Himalayas</span>- https://workfromhimalayas.co.in/<br>
-https://astroverse.in/<br>
-https://astrostops.com/<br>
-https://playbharat.fun/<br>
+**WorkFromHimalayas**- https://workfromhimalayas.co.in/<br>
+**Astroverse**- https://astroverse.in/<br>
+**AstroStops**- https://astrostops.com/<br>
+**PlayBharat Network**- https://playbharat.fun/<br>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <br>
