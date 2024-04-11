@@ -116,6 +116,8 @@ Hey there 👋,
 [![React Badge](https://img.shields.io/badge/React-informational?style=plastic&logo=react&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 [![SQLite Badge](https://img.shields.io/badge/SQLite-informational?style=plastic&logo=sqlite&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
+[![Express Badge](https://img.shields.io/badge/Express-informational?style=plastic&logo=express&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
+[![Linux Badge](https://img.shields.io/badge/Linux-informational?style=plastic&logo=linux&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 
 <br>
 
