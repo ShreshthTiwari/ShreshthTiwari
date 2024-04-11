@@ -112,8 +112,8 @@ Hey there 👋,
 
 [![JavaScript Badge](https://img.shields.io/badge/Javascript-informational?style=plastic&logo=javascript&logoColor=F7DF1E&color=000000)](https://github.com/ShreshthTiwari)
 [![NodeJS Badge](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=nodedotjs&logoColor=339933&color=000000)](https://github.com/ShreshthTiwari)
-[![EJS Badge](https://img.shields.io/badge/EJS-informational?style=plastic&logo=ejs&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
-[![NextJS Badge](https://img.shields.io/badge/NextJS-informational?style=plastic&logo=nextdotjs&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
+[![EJS Badge](https://img.shields.io/badge/EJS-informational?style=plastic&logo=ejs&logoColor=B4CA65&color=000000)](https://github.com/ShreshthTiwari)
+[![NextJS Badge](https://img.shields.io/badge/NextJS-informational?style=plastic&logo=nextdotjs&logoColor=000000&color=000000)](https://github.com/ShreshthTiwari)
 [![React Badge](https://img.shields.io/badge/React-informational?style=plastic&logo=react&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 [![SQLite Badge](https://img.shields.io/badge/SQLite-informational?style=plastic&logo=sqlite&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
