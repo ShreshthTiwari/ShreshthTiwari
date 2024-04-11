@@ -111,14 +111,14 @@ Hey there 👋,
 ## 💼 Skills
 
 [![JavaScript Badge](https://img.shields.io/badge/Javascript-informational?style=plastic&logo=javascript&logoColor=F7DF1E&color=ffffff)](https://github.com/ShreshthTiwari)
-[![NodeJS Badge](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=nodedotjs&logoColor=339933&color=000000)](https://github.com/ShreshthTiwari)
-[![EJS Badge](https://img.shields.io/badge/EJS-informational?style=plastic&logo=ejs&logoColor=B4CA65&color=000000)](https://github.com/ShreshthTiwari)
-[![NextJS Badge](https://img.shields.io/badge/NextJS-informational?style=plastic&logo=nextdotjs&logoColor=000000&color=000000)](https://github.com/ShreshthTiwari)
-[![React Badge](https://img.shields.io/badge/React-informational?style=plastic&logo=react&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
-[![SQLite Badge](https://img.shields.io/badge/SQLite-informational?style=plastic&logo=sqlite&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
-[![Express Badge](https://img.shields.io/badge/Express-informational?style=plastic&logo=express&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
-[![Linux Badge](https://img.shields.io/badge/Linux-informational?style=plastic&logo=linux&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
+[![NodeJS Badge](https://img.shields.io/badge/NodeJS-informational?style=plastic&logo=nodedotjs&logoColor=339933&color=ffffff)](https://github.com/ShreshthTiwari)
+[![EJS Badge](https://img.shields.io/badge/EJS-informational?style=plastic&logo=ejs&logoColor=B4CA65&color=ffffff)](https://github.com/ShreshthTiwari)
+[![NextJS Badge](https://img.shields.io/badge/NextJS-informational?style=plastic&logo=nextdotjs&logoColor=000000&color=ffffff)](https://github.com/ShreshthTiwari)
+[![React Badge](https://img.shields.io/badge/React-informational?style=plastic&logo=react&logoColor=61DAFB&color=ffffff)](https://github.com/ShreshthTiwari)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-informational?style=plastic&logo=mysql&logoColor=4479A1&color=ffffff)](https://github.com/ShreshthTiwari)
+[![SQLite Badge](https://img.shields.io/badge/SQLite-informational?style=plastic&logo=sqlite&logoColor=003B57&color=ffffff)](https://github.com/ShreshthTiwari)
+[![Express Badge](https://img.shields.io/badge/Express-informational?style=plastic&logo=express&logoColo0r=000000&color=ffffff)](https://github.com/ShreshthTiwari)
+[![Linux Badge](https://img.shields.io/badge/Linux-informational?style=plastic&logo=linux&logoColor=FCC624&color=ffffff)](https://github.com/ShreshthTiwari)
 
 <br>
 
