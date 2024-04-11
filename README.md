@@ -114,16 +114,14 @@ Hey there 👋,
 ## 💼 Skills
 
 [![JavaScript Badge](https://img.shields.io/badge/Javascript-informational?style=plastic&logo=javascript&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
-[![C Badge](https://img.shields.io/badge/C-informational?style=plastic&logo=c&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
-[![C++ Badge](https://img.shields.io/badge/C++-informational?style=plastic&logo=cplusplus&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 [![EJS Badge](https://img.shields.io/badge/EJS-informational?style=plastic&logo=javascript&logoColor=87ceeb&color=000000)](https://github.com/ShreshthTiwari)
 
 <br>
 
 ## 👨‍💻 Projects
 
-**WorkFromHimalayas**- https://workfromhimalayas.co.in/<br>
 **Astroverse**- https://astroverse.in/<br>
+**AstroPathshala**- https://astropathshala.in/<br>
 **AstroStops**- https://astrostops.com/<br>
 **PlayBharat Network**- https://playbharat.fun/<br>
 
