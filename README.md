@@ -21,7 +21,7 @@ Hey there 👋,
 
 [![Discord Server](https://img.shields.io/discord/978315663548502056?label=Discord&style=plastic)](https://discord.com/invite/DmzJ6a8Cq5)
 <br>
--ShreshthTiwari#6014
+- ShreshthTiwari
 <br>
 
 ## 😎 FRIENDS
