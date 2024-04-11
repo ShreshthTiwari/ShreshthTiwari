@@ -120,7 +120,6 @@ Hey there 👋,
 **Astroverse**- https://astroverse.in/<br>
 **AstroPathshala**- https://astropathshala.in/<br>
 **AstroStops**- https://astrostops.com/<br>
-**PlayBharat Network**- https://playbharat.fun/<br>
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 <br>
