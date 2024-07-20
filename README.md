@@ -52,8 +52,8 @@ Hey there 👋,
 <br>
 
 ![Naman Image](https://avatars.githubusercontent.com/u/92114546?v=4&s=40)
-[![Naman](https://img.shields.io/badge/Naman-Espi347-blue?style=plastic)](https://github.com/Espi347)
-[![Github Stars](https://img.shields.io/github/stars/Espi347?affiliations=OWNER&style=plastic)](https://github.com/Espio347)
+[![Naman](https://img.shields.io/badge/Naman-Espio347-blue?style=plastic)](https://github.com/Espio347)
+[![Github Stars](https://img.shields.io/github/stars/Espio347?affiliations=OWNER&style=plastic)](https://github.com/Espio347)
 <br>
 
 ## 📌 Pinned Repositories
