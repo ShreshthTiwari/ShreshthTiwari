@@ -113,6 +113,18 @@ Hey there 👋,
 <br>
 <br>
 
+## 📈 Codeium Stats
+
+<a align="center" href="https://codeium.com/profile/shreshthtiwari">
+  [![autocomplete](https://codeium.com/badges/user/shreshthtiwari/autocomplete)](https://codeium.com/profile/shreshthtiwari)
+</a>
+<br>
+<a align="center" href="https://codeium.com/profile/shreshthtiwari">
+  [![streak](https://codeium.com/badges/v2/user/shreshthtiwari/streak)](https://codeium.com/profile/shreshthtiwari)
+</a>
+<br>
+<br>
+
 ## 💼 Skills
 
 [![JavaScript Badge](https://img.shields.io/badge/Javascript-informational?style=plastic&logo=javascript&logoColor=F7DF1E&color=ffffff)](https://github.com/ShreshthTiwari)
