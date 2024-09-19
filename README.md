@@ -132,6 +132,7 @@ Hey there 👋,
 [![SQLite Badge](https://img.shields.io/badge/SQLite-informational?style=plastic&logo=sqlite&logoColor=003B57&color=ffffff)](https://github.com/ShreshthTiwari)
 [![Express Badge](https://img.shields.io/badge/Express-informational?style=plastic&logo=express&logoColo0r=000000&color=ffffff)](https://github.com/ShreshthTiwari)
 [![Linux Badge](https://img.shields.io/badge/Linux-informational?style=plastic&logo=linux&logoColor=FCC624&color=ffffff)](https://github.com/ShreshthTiwari)
+[![Redis Badge](https://img.shields.io/badge/Redis-informational?style=plastic&logo=redis&logoColor=FCC624&color=ffffff)](https://github.com/ShreshthTiwari)
 
 <br>
 
